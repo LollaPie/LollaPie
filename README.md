@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Richard from Hamburg, Germany.
+- 👀 I’m interested in AI, Machine Learning and Python.
+- 🌱 I’m currently learning neuronal networks.
